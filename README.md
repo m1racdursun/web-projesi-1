@@ -1,4 +1,4 @@
-GELİŞTİRİCİLER 
+### GELİŞTİRİCİLER ###
 -Mirac DURSUN
 -Enes Malik GABLAN
 -Emre ŞİŞMAN
