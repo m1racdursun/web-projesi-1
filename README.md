@@ -1,5 +1,5 @@
 ### GELİŞTİRİCİLER ###
--Mirac DURSUN
--Enes Malik GABLAN
--Emre ŞİŞMAN
--Eda POLAT
+-> Mirac DURSUN
+-> Enes Malik GABLAN
+-> Emre ŞİŞMAN
+-> Eda POLAT
