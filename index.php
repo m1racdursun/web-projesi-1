@@ -1,19 +1,18 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BOMBALIK</title>
+    <title>Proje 2</title>
 </head>
 <body>
-    <h1>TMYO PROJEM</h1>
-    <p>
-        Bu proje ile php bilgimi tazeleyerek yeni projeler oluşturmaya hazırlanacağım.
-        </p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, incidunt vitae? 
-            Neque delectus optio pariatur, vero hic, quasi tempore repellat nam explicabo 
-            illum dicta corrupti, dolorem consequuntur tenetur officia iusto.
-
-        </p>
+    <h1>Proje-1 Admin Sayfası</h1>
+    <h2>Bu projede çalışanlar</h2>
+    <ul>
+        <li>Mirac DURSUN</li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
 </body>
 </html>
