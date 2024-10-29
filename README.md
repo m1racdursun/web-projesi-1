@@ -1,6 +1,6 @@
 # Proje 1
 
-## Geliştiriciler
+### Geliştiriciler
 *Mehmet Mirac DURSUN    
 *Enes Malik GABLAN
 *Emre ŞİŞMAN
