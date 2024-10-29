@@ -1,7 +1,9 @@
 # Proje 1
 
 ### Geliştiriciler
-*Mehmet Mirac DURSUN    
-*Enes Malik GABLAN
-*Emre ŞİŞMAN
-*Eda POLAT
+<li>Mehmet Mirac DURSUN</li>
+<li>Enes Malik GABLAN</li>    
+<li>Emre ŞİŞMAN</li>
+<li>Eda POLAT</li>
+
+
